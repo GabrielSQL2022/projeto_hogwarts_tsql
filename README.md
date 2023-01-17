@@ -9,3 +9,11 @@
 
 
 ## ANÁLISE DE REQUISITOS
+
+
+
+
+
+
+
+## MODELO FÍSICO
