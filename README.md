@@ -14,10 +14,10 @@ Mas, para quem não conhece, é a oportunidade perfeita para se aventurar e apre
 
 ## ANÁLISE DE REQUISITOS
 
+A análise de requisitos consiste no aprofundamento e conhecimento sobre a regra de negócio da empresa, ou seja, nesta etapa são realizadas entrevistas e imersões acerca da empresa para compreender o que ela faz, os tipos de clientes que ela possui, o ramo que atua, sua história, características e tudo que for importante para a criação de um banco de dados consistente.
 
+Pelo fato deste projeto não ser baseado em nenhuma empresa, e sim no universo de Harry Potter não será necessário um aprofundamento sobre o assunto, porém é importante destacar os conceitos por trás das tabelas e colunas deste mundo mágico.
 
-
-
-
+<hr size="100"> <!-- LINHA HORIZONTAL -->
 
 ## MODELO FÍSICO
