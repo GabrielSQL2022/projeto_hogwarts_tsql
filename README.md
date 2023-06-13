@@ -127,3 +127,7 @@ CREATE TABLE BRIGADA_INQUISITORIAL
         REFERENCES CASAS (ID_CASA)
 )
 ```
+
+- ### Inserindo dados nas tabelas;
+
+**_atualizado em 13/06/2023_**
