@@ -37,7 +37,7 @@ Em projetos reais ou mais complexos são criados outros modelos antes do físico
 
 O SQL Server dispõe de uma funcionalidade nativa que cria um Diagrama de Banco de Dados simples de acordo com as tabelas, colunas e chaves criadas, conforme imagem abaixo:
 
-![diagrama](https://i.imgur.com/NQ8N9rv.jpeg)
+![diagrama](https://i.ibb.co/kKFqpRk/Diagrama-Modelo-F-sico.jpg)
 
 - ### Criação da Banco de Dados;
 
